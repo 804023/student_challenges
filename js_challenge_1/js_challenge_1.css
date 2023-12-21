@@ -15,3 +15,11 @@ p {
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+img {
+    width: 100%;
+}
+/* The link to the palette above is blocked */
+button {
+    background-color: #2ea08f;
+}
